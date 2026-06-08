@@ -40,7 +40,7 @@ The objective of this project is to help users track their expenses and understa
 
 ---
 
-## 👨‍💻 Developed By
+##  Developed By
 
 Amara1930
 
