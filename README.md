@@ -1,6 +1,6 @@
-# 💰 Expense Tracker
+#  Expense Tracker
 
-## 📖 Description
+##  Description
 
 Expense Tracker is a simple Python application that helps users record and manage their daily expenses.
 
@@ -8,7 +8,7 @@ Users can add expenses, categorize them, and calculate the total amount spent. T
 
 ---
 
-## ✨ Features
+##  Features
 
 - Add New Expenses
 - Categorize Expenses
@@ -18,19 +18,19 @@ Users can add expenses, categorize them, and calculate the total amount spent. T
 
 ---
 
-## 🛠️ Technology Used
+##  Technology Used
 
 - Python
 
 
 
-## 🎯 Objective
+##  Objective
 
 The objective of this project is to help users track their expenses and understand spending habits while demonstrating practical Python programming concepts.
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - Monthly Expense Reports
 - Expense Charts and Graphs
